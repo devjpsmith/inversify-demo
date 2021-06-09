@@ -1,0 +1,14 @@
+{
+  "name": "inversify-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "clean": "rm -rf **/*.js & rm *.js"
+  },
+  "dependencies": {
+    "@types/node": "^15.12.2",
+    "inversify": "4",
+    "reflect-metadata": "^0.1.13"
+  }
+}
